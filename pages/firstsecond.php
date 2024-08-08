@@ -12,7 +12,7 @@
 <body>
 <div id="first1">
         <div class="first">
-            <a href="#">ICT 1110-Introduction to Multimedia</a>
+            <a href="https://docs.google.com/presentation/d/16IhtByFUKjcETNMxEzjKsqHOmCo-GokN/edit?usp=drive_link&ouid=118060278788173203131&rtpof=true&sd=true" target="_blank">ICT 1110-Introduction to Multimedia</a>
         </div><br>
         <div class="first">
             <a href="#">ICT 1108-Skill Development Project I</a>
