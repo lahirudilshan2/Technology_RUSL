@@ -10,7 +10,7 @@
     <title>Document</title>
 </head>
 <body>
-    <section id="ff">
+<div>
         <div class="first">
             <a href="#">ICT 1110-Introduction to Multimedia</a>
         </div><br>
@@ -42,6 +42,6 @@
             Technology 1</a>
         </div>
     </section>
-
+</div>
 </body>
 </html>
