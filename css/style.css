@@ -381,7 +381,7 @@ header{
 }
 #ff{
     display: flex;
-    flex-direction: column;
+    
 }
 .first{
     width: 350px;
