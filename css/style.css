@@ -432,7 +432,7 @@ header{
     width: 275%;
     border: none;
     outline: none;
-    background-color: rgb(38, 219, 107);
+    background-color: rgb(151, 238, 80);
     color: #000000;
 }
 #msg{
@@ -441,7 +441,7 @@ header{
     height: 200px;
     border: none;
     outline: none;
-    background-color:rgb(38, 219, 107);
+    background-color:rgb(151, 238, 80);
     color: rgb(9, 9, 9);
 }
 #send{
@@ -450,7 +450,7 @@ header{
     margin: 40px;
     border: none;
     outline: none;
-    background-color: rgb(38, 219, 107);
+    background-color: rgb(127, 231, 70);
     color: rgb(242, 240, 240);
 }
 
